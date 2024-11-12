@@ -11,7 +11,7 @@ Documentation: https://help.syncfusion.com/flutter/calendar/getting-started
 
 
 ## How to run this application
-To run this application, you need to first clone or download the ‘How-to-Display-More-Appointments-in-the-Flutter-Calendar’ repository and open it in your preferred IDE. Then, build and run your project to view the output.
+To run this application, you need to first clone or download the 'How-to-Display-More-Appointments-in-the-Flutter-Calendar' repository and open it in your preferred IDE. Then, build and run your project to view the output.
 
 ## Further help
 For more help, check the [Syncfusion Flutter documentation](https://help.syncfusion.com/flutter/introduction/overview) or

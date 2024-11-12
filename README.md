@@ -1,5 +1,6 @@
 # How to Display More Appointments in the Flutter Calendar
 A quick-start example to help you display more appointments in the Syncfusion Flutter Calendar widget. You will learn how to add scrollbar and single-child scroll view widgets in the Calendar to achieve this.
+
 Watch the video: Coming soon...
 
 Documentation: https://help.syncfusion.com/flutter/calendar/getting-started 
@@ -15,5 +16,6 @@ To run this application, you need to first clone or download the ‘How-to-Displ
 ## Further help
 For more help, check the [Syncfusion Flutter documentation](https://help.syncfusion.com/flutter/introduction/overview) or
  [Flutter documentation](https://flutter.dev/docs/get-started/install).
+ 
 [For more development tools](https://flutter.dev/docs/development/tools/devtools/overview)
 
